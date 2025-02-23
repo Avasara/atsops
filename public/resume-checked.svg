@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" style="background-color: white;">
+  <!-- Resume Background -->
+  <rect x="50" y="50" width="300" height="300" fill="#f4f4f4" stroke="#cccccc" stroke-width="2"/>
+  
+  <!-- Header Section -->
+  <rect x="70" y="70" width="260" height="30" fill="#e0e0e0"/>
+  
+  <!-- Green Checkmark on Header -->
+  <svg x="40" y="65" width="30" height="30" viewBox="0 0 24 24" fill="none">
+    <circle cx="12" cy="12" r="11" fill="#4CAF50"/>
+    <path d="M6 12l4 4 8-8" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  
+  <!-- Contact Info -->
+  <rect x="70" y="110" width="260" height="20" fill="#e0e0e0"/>
+  
+  <!-- Summary Section -->
+  <rect x="70" y="140" width="260" height="40" fill="#e0e0e0"/>
+  
+  <!-- Section with Green Checkmark -->
+  <rect x="70" y="190" width="260" height="20" fill="#333" opacity="0.1"/>
+  
+  <!-- Green Checkmark on Section -->
+  <svg x="320" y="185" width="30" height="30" viewBox="0 0 24 24" fill="none">
+    <circle cx="12" cy="12" r="11" fill="#4CAF50"/>
+    <path d="M6 12l4 4 8-8" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  
+  <!-- Circles representing list items -->
+  <circle cx="90" cy="230" r="8" fill="#e0e0e0"/>
+  <circle cx="90" cy="260" r="8" fill="#e0e0e0"/>
+  <circle cx="90" cy="290" r="8" fill="#e0e0e0"/>
+  
+  <!-- Corresponding rectangular blocks for list items -->
+  <rect x="110" y="222" width="220" height="16" fill="#e0e0e0"/>
+  <rect x="110" y="252" width="220" height="16" fill="#e0e0e0"/>
+  <rect x="110" y="282" width="220" height="16" fill="#e0e0e0"/>
+  
+  <!-- Minimal Additional Blocks -->
+  <rect x="70" y="320" width="260" height="20" fill="#e0e0e0"/>
+</svg>
