@@ -24,7 +24,7 @@ export async function POST(req) {
       
       // Insert the user ID into your table
       const { data: insertData, error } = await supabase
-        .from('atsops_db')
+        .from('markaide_db')
         .insert({
           user_id: userId,
           email_address: userEmail
